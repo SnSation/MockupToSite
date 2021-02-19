@@ -7,7 +7,7 @@ Mockup to Site
 
 Mockup to Site is simple website created from a mockup.
 This project is intended to prove an ability to create a website from a mockup.
-Only basic HTML5 and CSS was used in this project, no frameworks or addons.
+Only HTML, CSS, (minimal) Bootstrap was used in this project.
 
 
 [GitHub Repository](https://github.com/SnSation/MockupToSite "Mockup to Site Repository")

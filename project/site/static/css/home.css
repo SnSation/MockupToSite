@@ -1,0 +1,77 @@
+/* Home Page Styles */
+
+/* Content Styles */
+#feature-row {
+    margin-top:1em;
+    margin-bottom:1em;
+    padding:1em;
+    justify-content:center;
+}
+
+#jumbotronImg-col {
+    padding:0;
+}
+
+.jumbotronImg {
+    width:100%;
+}
+
+#jumbotronText-col {
+    background-color: #903833;
+    color:white;
+    padding:1em;
+    text-align:left;
+}
+
+.jumbotronTitle {
+    font-size:1.5em;
+}
+
+.jumbotronHR {
+    border:1px solid white;
+}
+
+.jumbotronLead {
+    font-size:.8em;
+}
+
+.jumbotronCredit {
+    font-size:.5em;
+}
+
+.jumbotronLink {
+    color:white;
+}
+
+#article-row {
+    margin-top:1em;
+    margin-bottom:1em;
+    justify-content:space-between;
+}
+
+#welcome-col {
+    margin-top:1em;
+}
+
+.welcomeTitle {
+    font-size:1.25em;
+}
+
+.welcomeText {
+    
+}
+
+.info-col {
+    
+}
+
+.infoTitle {
+    font-size:.9em;
+    font-weight:bold;
+    margin:0;
+}
+
+.infoText {
+    font-size:.8em;
+}
+/* Custom Styles */
