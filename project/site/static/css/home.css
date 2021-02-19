@@ -1,9 +1,16 @@
 /* Home Page Styles */
 
 /* Content Styles */
+
+#home-row {
+
+}
+
+#home-col {
+
+}
+
 #feature-row {
-    margin-top:1em;
-    margin-bottom:1em;
     padding:1em;
     justify-content:center;
 }
@@ -43,21 +50,11 @@
     color:white;
 }
 
-#article-row {
-    margin-top:1em;
-    margin-bottom:1em;
-    justify-content:space-between;
-}
-
-#welcome-col {
+#welcomeArticle {
     margin-top:1em;
 }
 
-.welcomeTitle {
-    font-size:1.25em;
-}
-
-.welcomeText {
+#welcomeText {
     
 }
 

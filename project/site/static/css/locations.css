@@ -1,0 +1,40 @@
+/* Location Page Styles */
+
+/* Content Styles */
+
+#regions-row {
+
+}
+
+#domestic-col {
+
+}
+
+#international-col {
+
+}
+
+.regionsTitle {
+    font-size:1.5em;
+}
+
+.regionsHR {
+    border:1px solid gray;
+}
+
+.regionsList {
+    list-style-type:none;
+    padding:0;
+}
+
+#domesticRegions {
+    column-count: 3;
+}
+
+.regionsItem {
+
+}
+
+.regionsLink {
+    color:black;
+}
