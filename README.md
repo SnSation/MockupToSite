@@ -1,17 +1,18 @@
-Sample Project
+Mockup to Site
 =============
 
 **Author**: Alexander Blair | ablairdevelopment@gmail.com
 
-**Last Update**: 02/19/2021
+**Last Update**: 02/19/2021 (Re-Upload from 10/23/2020)
 
-Sample Project is a sample GitHub Repository. Its reason for being, intended function, and potential use goes here.
+Mockup to Site is simple website created from a mockup.
+This project is intended to prove an ability to create a website from a mockup.
+Only basic HTML5 and CSS was used in this project, no frameworks or addons.
 
-Sample Project's highlighted capabilities can go in a second paragraph, if it is necessary.
 
-[GitHub Repository](https://github.com/SnSation/SampleProject "Sample Project Repository")
+[GitHub Repository](https://github.com/SnSation/MockupToSite "Mockup to Site Repository")
 
-[Sample Use](https://a-blair-portfolio-api.herokuapp.com/project/SampleProject "Sample Project on Website")
+[Sample Use](https://a-blair-portfolio.herokuapp.com/project/MockupToSite "Mockup to Site on Website")
 
 Goals & Constraints
 -------------------------
@@ -46,28 +47,28 @@ Integrated Technology
 - ElephantSQL: Database
 - ETC: Other Uses
 
-[Requirements](https://github.com/SnSation/SampleProject/blob/development/requirements.txt "requirements.txt")
+[Requirements](https://github.com/SnSation/MockupToSite/blob/development/requirements.txt "requirements.txt")
 
-Starting with Sample Project
+Starting with Mockup to Site
 -------------------
 ### Installation
-1. Download [Sample Project](https://github.com/SnSation/SampleProject/ "Download Sample Project") | OR | Clone this [Repository](https://github.com/SnSation/SampleProject/ "Download Sample Project") 
-2. Do this step, and the following steps until Sample Project is ready to use
+1. Download [Mockup to Site](https://github.com/SnSation/MockupToSite/ "Download Mockup to Site") | OR | Clone this [Repository](https://github.com/SnSation/MockupToSite/ "Download Mockup to Site") 
+2. Do this step, and the following steps until Mockup to Site is ready to use
 3. Run `this_file.exe`, Execute `$this command`, or Open `some_file.ext` with *[Some Program](https://www.google.com/chrome/ "Software Website")*
 
 
 
 
-Using Sample Project
+Using Mockup to Site
 ------------
 ### The Simplest Case
 
 **The File:**
 ```
 # This is your application.py
-from sampleproject import SampleProject
+from sampleproject import MockupToSite
 
-projectInstance = SampleProject()
+projectInstance = MockupToSite()
 
 a_string = "A String"
 
@@ -89,7 +90,7 @@ $ sampleproject run
 
 **Output:**
 ```
-Sample Project Results:
+Mockup to Site Results:
     1. Your Problem is Solved
     2. Your Life is Easier
     3. You Know More Things
@@ -99,9 +100,9 @@ Sample Project Results:
 **The File:**
 ```
 # This is your application.py
-from sampleproject import SampleProject
+from sampleproject import MockupToSite
 
-projectInstance = SampleProject()
+projectInstance = MockupToSite()
 
 a_string = "A String"
 
@@ -123,7 +124,7 @@ $ sampleproject run
 
 **Output:**
 ```
-Sample Project Results:
+Mockup to Site Results:
     1. Your Problem is Solved
     2. Your Life is Easier
     3. You Know More Things
@@ -138,17 +139,17 @@ Known Issues
 ------------
 
 1. **Name of Issue**: What happens? > How / When does it occur?
-2. **Sample Issue**: Sample Project occassionally hangs without displaying an error message when 
+2. **Sample Issue**: Mockup to Site occassionally hangs without displaying an error message when 
 
 Contributors & Credits
 --------------------------
 
 - **Owner**: Alexander Blair
     - **Email**: ablairdevelopment@gmail.com
-    - **Portfolio**: https://a-blair-portfolio-api.herokuapp.com/
+    - **Portfolio**: https://a-blair-portfolio.herokuapp.com/
     - **GitHub**: https://github.com/SnSation
 - **Contributors**:
-    - [Contributor Name](https://a-blair-portfolio-api.herokuapp.com/ "Contributor Website") | [GitHub](https://github.com/SnSation) | contributor@email.com
+    - [Contributor Name](https://a-blair-portfolio.herokuapp.com/ "Contributor Website") | [GitHub](https://github.com/SnSation) | contributor@email.com
 - **Resources**:
     - [Resource Name](https://www.google.com/ "Resource Website")
 
@@ -156,6 +157,6 @@ Contributors & Credits
 Links
 -----
 
-- [Sample Project in Use](https://a-blair-portfolio-api.herokuapp.com/projects/SampleProject "See Sample Project in Use")
-- [Past Versions](https://a-blair-portfolio-api.herokuapp.com/archive/project/SampleProject "Past Versions Directory")
-- [Author](https://a-blair-portfolio-api.herokuapp.com/ "Author Website")
+- [Mockup to Site in Use](https://a-blair-portfolio.herokuapp.com/projects/MockupToSite "See Mockup to Site in Use")
+- [Past Versions](https://a-blair-portfolio.herokuapp.com/archive/project/MockupToSite "Past Versions Directory")
+- [Author](https://a-blair-portfolio.herokuapp.com/ "Author Website")
