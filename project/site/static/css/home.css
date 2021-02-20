@@ -1,0 +1,74 @@
+/* Home Page Styles */
+
+/* Content Styles */
+
+#home-row {
+
+}
+
+#home-col {
+
+}
+
+#feature-row {
+    padding:1em;
+    justify-content:center;
+}
+
+#jumbotronImg-col {
+    padding:0;
+}
+
+.jumbotronImg {
+    height:100%;
+}
+
+#jumbotronText-col {
+    background-color: #903833;
+    color:white;
+    padding:1em;
+    text-align:left;
+}
+
+.jumbotronTitle {
+    font-size:1.5em;
+}
+
+.jumbotronHR {
+    border:1px solid white;
+}
+
+.jumbotronLead {
+    font-size:.8em;
+}
+
+.jumbotronCredit {
+    font-size:.5em;
+}
+
+.jumbotronLink {
+    color:white;
+}
+
+#welcomeArticle {
+    margin-top:1em;
+}
+
+#welcomeText {
+    
+}
+
+.info-col {
+    
+}
+
+.infoTitle {
+    font-size:.9em;
+    font-weight:bold;
+    margin:0;
+}
+
+.infoText {
+    font-size:.8em;
+}
+/* Custom Styles */

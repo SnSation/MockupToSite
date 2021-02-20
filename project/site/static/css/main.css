@@ -1,0 +1,269 @@
+/* Global Styles */
+
+/* Container Styles */
+body {
+    background-image: url("../images/nza_background.jpg");
+}
+
+.container {
+
+}
+
+#content-col {
+    background-color:white;
+    padding-left:3em;
+    padding-right:3em;
+}
+
+/* Header Styles */
+
+header {
+
+}
+
+#header-row {
+
+}
+
+#login-row {
+    align-content:flex-end;
+}
+
+#loginNav {
+    background-color:#CCCCCC;
+    border-bottom-right-radius:10px;
+    border-bottom-left-radius:10px;
+}
+
+.login-link {
+    color:black;
+    padding:0;
+    margin-top:.25em;
+    margin-bottom:.25em;
+}
+
+#loginButton {
+    border-right:2px solid black;
+    padding-right:.5em;
+}
+
+#registerButton {
+    padding-left:.5em;
+}
+
+#banner-row {
+    padding:2em;
+}
+
+#bannerImg-col {
+    padding:0;
+}
+
+#bannerImg {
+    width:100%;
+}
+
+#bannerText-col {
+    font-family:"Georgia", serif;
+    padding:0;
+}
+
+#bannerTitle {
+    font-size:2.75em;
+    text-align:right;
+}
+
+#bannerSubtitle {
+    font-size:1.25em;
+    text-align:right;
+}
+
+#headerNav-row {
+    justify-content: center;
+    margin:0;
+}
+
+#headerNav {
+    border-top:3px solid black;
+    border-bottom:3px solid black;
+    width:100%;
+    justify-content:space-between;
+    padding:0;
+}
+
+.headerNav-link {
+    color:black;
+    text-align:center;
+    border-right:2px solid black;
+    width:100%;
+    margin-top:.5em;
+    margin-bottom:.5em;
+    padding-top:0;
+    padding-bottom:0;
+}
+
+#headerNav-first {
+    color:black;
+    text-align:center;
+    margin-left:0;
+    width:100%;
+}
+
+#headerNav-last {
+    color:black;
+    text-align:center;
+    border-right:0;
+    margin-right:0;
+    width:100%;
+}
+
+.link-separator {
+    border:1px solid black;
+}
+
+/* Main Styles */
+
+main {
+
+}
+
+.main-row {
+    margin-top:2em;
+    margin-bottom:2em;
+}
+
+.main-col {
+    justify-content:space-between;
+    width:100%;
+}
+
+.page-col {
+    padding-left:2em;
+    padding-right:2em;
+}
+
+.sidebar-col {
+
+}
+
+.sidebar-container {
+    background-color:#903833;
+    padding:1em;
+    color:white;
+}
+
+.sidebarTitle {
+    font-size:1.25em;
+}
+
+.sidebarHR {
+    border:1px solid white;
+    margin-top:0;
+}
+
+.sidebarList {
+    list-style-type: none;
+    padding:0;
+}
+
+.sidebarItem {
+    font-size:1.2em;
+    margin-top:.5em;
+    margin-bottom:.5em;
+}
+
+.sidebarSublist {
+    list-style-type: none;
+    padding-left:1em;
+}
+
+.sidebarSubitem {
+    font-size:.8em;
+}
+
+.sidebarImg {
+    width:100%;
+}
+
+.sidebarImgTitle {
+    font-size:1em;
+    margin-top:.5em;
+    margin-bottom:.5em;
+}
+
+.sidebarImgSubtitle {
+    font-size:.9em;
+    margin:0;
+}
+
+.sidebarLink {
+    color: white;
+}
+
+.article-row {
+    margin-bottom:1em;
+    justify-content:space-between;
+}
+
+.article-col {
+   
+}
+
+.articleImg {
+    width:100%;
+    margin-bottom:1em;
+}
+
+.articleTitle {
+    font-size:1.25em;
+}
+
+.articleText {
+    
+}
+
+/* Footer Styles */
+
+footer {
+    
+}
+
+.footer-row {
+    margin-top:1em;
+}
+
+#footer-col {
+
+}
+
+#footerNav-row {
+    justify-content: center;
+    margin:0;
+    border-top:3px solid black;
+}
+
+#footerNav {
+    padding:0;
+    margin-top:.5em;
+}
+
+.footerNav-link {
+    color:black;
+    padding-top:0;
+    padding-bottom:0;
+}
+
+.footerNav-separator {
+    background-color:lightgray;
+    width:2em;
+    height:2px;
+}
+
+#copyright-row {
+    justify-content:center;
+}
+
+#copyright {
+    color:gray;
+    padding:1em;
+}
