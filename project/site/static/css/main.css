@@ -1,14 +1,18 @@
+/* Global Styles */
+
 /* Container Styles */
 body {
     background-image: url("../images/nza_background.jpg");
 }
 
 .container {
-    justify-content: space-between;
+
 }
 
 #content-col {
     background-color:white;
+    padding-left:3em;
+    padding-right:3em;
 }
 
 /* Header Styles */
@@ -139,12 +143,12 @@ main {
 }
 
 .sidebar-col {
+
 }
 
 .sidebar-container {
     background-color:#903833;
     padding:1em;
-    margin-left:1em;
     color:white;
 }
 
@@ -166,6 +170,15 @@ main {
     font-size:1.2em;
     margin-top:.5em;
     margin-bottom:.5em;
+}
+
+.sidebarSublist {
+    list-style-type: none;
+    padding-left:1em;
+}
+
+.sidebarSubitem {
+    font-size:.8em;
 }
 
 .sidebarImg {
@@ -194,6 +207,11 @@ main {
 
 .article-col {
    
+}
+
+.articleImg {
+    width:100%;
+    margin-bottom:1em;
 }
 
 .articleTitle {
