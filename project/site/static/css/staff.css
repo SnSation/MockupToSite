@@ -1,0 +1,62 @@
+/* Staff Page Styles */
+
+/* Content Styles */
+
+#staffImg {
+    width:65%;
+}
+
+#bio-row {
+
+}
+
+#bioLeft {
+    padding-left:0;
+}
+
+#bioRight {
+    padding-left:0;
+}
+
+.bio-container {
+    margin-bottom:2em;
+}
+
+.bioTop {
+
+}
+
+.img-col {
+    float:left;
+    display:block;
+    margin-right:1em;
+}
+
+.bioImg {
+
+}
+
+.info-col {
+    margin:0;
+    padding:0;
+}
+
+.bioName {
+
+}
+
+.bioPhone {
+
+}
+
+.bioBottom {
+
+}
+
+.bioMore {
+
+}
+
+.bioLink {
+    color:black;
+}
