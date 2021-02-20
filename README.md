@@ -12,7 +12,7 @@ Only HTML, CSS, (minimal) Bootstrap was used in this project.
 
 [GitHub Repository](https://github.com/SnSation/MockupToSite "Mockup to Site Repository")
 
-[Sample Use](https://a-blair-portfolio.herokuapp.com/project/MockupToSite "Mockup to Site on Website")
+[Sample](https://a-blair-portfolio.herokuapp.com/project/MockupToSite "Mockup to Site on Website")
 
 Goals & Constraints
 -------------------------
@@ -35,111 +35,30 @@ This is where other key features would be described. There may be more than one 
 Integrated Technology
 -----------------------
 **Language(s):**
-- Python
-- JavaScript
-- PostgreSQL
-- ETC
+- HTML
+- CSS
 
 **Libraries / Packages / AddOns:**
-- Software: What / Why it was used
-- Flask: Back-End API
-- React.JS: Front-End UI
-- ElephantSQL: Database
-- ETC: Other Uses
+- Bootstrap
 
-[Requirements](https://github.com/SnSation/MockupToSite/blob/development/requirements.txt "requirements.txt")
+Requirements: Just a Browser
 
-Starting with Mockup to Site
--------------------
-### Installation
-1. Download [Mockup to Site](https://github.com/SnSation/MockupToSite/ "Download Mockup to Site") | OR | Clone this [Repository](https://github.com/SnSation/MockupToSite/ "Download Mockup to Site") 
-2. Do this step, and the following steps until Mockup to Site is ready to use
-3. Run `this_file.exe`, Execute `$this command`, or Open `some_file.ext` with *[Some Program](https://www.google.com/chrome/ "Software Website")*
-
-
-
-
-Using Mockup to Site
+Using / Viewing Mockup to Site
 ------------
-### The Simplest Case
 
-**The File:**
-```
-# This is your application.py
-from sampleproject import MockupToSite
+1. Clone this [repository](https://github.com/SnSation/MockupToSite "Mockup to Site Repository)
+2. Open `./project/site/main.html` with your browser
+3. The original mockup images are in `./project/mockup` for comparison
 
-projectInstance = MockupToSite()
-
-a_string = "A String"
-
-a_number = 1
-
-an_object = {
-    An : Object,
-    With : Attributes
-}
-
-projectInstance.function(a_string, a_number, an_object)
-```
-
-**CLI:**
-```
-$ sampleproject run
-    * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
-```
-
-**Output:**
-```
-Mockup to Site Results:
-    1. Your Problem is Solved
-    2. Your Life is Easier
-    3. You Know More Things
-```
-
-### A Specific Problem
-**The File:**
-```
-# This is your application.py
-from sampleproject import MockupToSite
-
-projectInstance = MockupToSite()
-
-a_string = "A String"
-
-a_number = 1
-
-an_object = {
-    An : Object,
-    With : Attributes
-}
-
-projectInstance.function(a_string, a_number, an_object)
-```
-
-**CLI:**
-```
-$ sampleproject run
-    * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
-```
-
-**Output:**
-```
-Mockup to Site Results:
-    1. Your Problem is Solved
-    2. Your Life is Easier
-    3. You Know More Things
-```
 Current Tasks & Future Additions
 --------------------------------
-- [x] Complete Task | Completed: 02/19/2021
-- [ ] Incomplete Task | In Development
-- [ ] Incomplete Task | Future Addition
+
+- [x] Project Complete (Again) | 02/19/2021
 
 Known Issues
 ------------
 
-1. **Name of Issue**: What happens? > How / When does it occur?
-2. **Sample Issue**: Mockup to Site occassionally hangs without displaying an error message when 
+- N/A
 
 Contributors & Credits
 --------------------------
@@ -148,15 +67,10 @@ Contributors & Credits
     - **Email**: ablairdevelopment@gmail.com
     - **Portfolio**: https://a-blair-portfolio.herokuapp.com/
     - **GitHub**: https://github.com/SnSation
-- **Contributors**:
-    - [Contributor Name](https://a-blair-portfolio.herokuapp.com/ "Contributor Website") | [GitHub](https://github.com/SnSation) | contributor@email.com
-- **Resources**:
-    - [Resource Name](https://www.google.com/ "Resource Website")
 
 
 Links
 -----
 
 - [Mockup to Site in Use](https://a-blair-portfolio.herokuapp.com/projects/MockupToSite "See Mockup to Site in Use")
-- [Past Versions](https://a-blair-portfolio.herokuapp.com/archive/project/MockupToSite "Past Versions Directory")
 - [Author](https://a-blair-portfolio.herokuapp.com/ "Author Website")
