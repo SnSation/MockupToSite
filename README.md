@@ -17,20 +17,16 @@ Only HTML, CSS, (minimal) Bootstrap was used in this project.
 Goals & Constraints
 -------------------------
 
-Why does this project exist?
-
-What is this project supposed to do?
-
-What can't be done while creating this project?
+- Create a simple website from mockup images
+- Minimize use of Front-End technology aside from Bootstrap
 
 Key Features
 ------------
 
-**Core Feature:**
-This is where the core concept of the project would be described. The Core Feature is the piece de resistance around which eeverything else is built.
-
-**Secondary Feature:**
-This is where other key features would be described. There may be more than one Secondary Feature, so it is ok to have more than one. These features are more general than singular capabilites. Descriptions here should be general enough that someone unfamiliar with the project should understand what the feature is or does.
+- `main.css` holds all CSS used across more than 1 page
+- `main.html` is the default page, but redirects to the home page
+- Flexible design, adaptive to screen size
+- Aesthetic improvements from the original mockup
 
 Integrated Technology
 -----------------------
